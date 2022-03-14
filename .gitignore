@@ -1,0 +1,9 @@
+# ignore
+.vscode/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+DigitalGame.sln
+Assembly-CSharp.csproj
